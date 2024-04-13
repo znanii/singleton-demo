@@ -1,6 +1,5 @@
 require './logger'
 
-Logger.instance.log_smth 'bnewmi' 
-
+Logger.instance.log_smth 'hjere' 
 
 
